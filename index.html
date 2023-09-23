@@ -6,15 +6,25 @@
     <title>React</title>
   </head>
   <body>
-    <div id="root"></div>
-    <script
+    <div id="root">
+      <h1>Index.html is rendering here</h1>
+    </div>
+
+    
+    <!-- CDN Links are removed here because we installed both React and ReactDOM here. Using these CDN Links is wrong because with every update in  React version, we need to update these CDN links. -->
+    <!-- <script
       crossorigin
       src="https://unpkg.com/react@18/umd/react.development.js"
     ></script>
     <script
       crossorigin
       src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
-    ></script>
-    <script src="./App.js"></script>
+    ></script> -->
+
+
+    <script type='module' src="./App.js"></script> 
+    <!-- type='module' tells browser that App.js is not a browser file, but is a module -->
+
+    
   </body>
 </html>
