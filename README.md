@@ -15,3 +15,11 @@
 - Code Splitting
 - Differential Bundling => to support older browsers
 - Tree Shaking - remove unused code
+
+# Episode 03
+
+- Added scripts to run and build
+- Use JSX instead of React.createElement
+- Understood the use of Babel
+- JSX behind the scenes works same as React.createElement
+- React Functional Components => Components are independent and reusable bits of code => A function that returns a JSX element is called React Functional Component.
