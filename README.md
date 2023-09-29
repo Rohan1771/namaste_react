@@ -23,3 +23,8 @@
 - Understood the use of Babel
 - JSX behind the scenes works same as React.createElement
 - React Functional Components => Components are independent and reusable bits of code => A function that returns a JSX element is called React Functional Component.
+
+# Episode 04
+
+- Food Order App begin
+- FoodOrder.js => for this application
