@@ -28,3 +28,9 @@
 
 - Food Order App begin
 - FoodOrder.js => for this application
+
+# Episode 05
+
+- Food Order code refactored
+- Folder structure refactored.
+- useState introduced in React.
